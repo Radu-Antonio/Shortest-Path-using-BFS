@@ -1,10 +1,10 @@
 # Shortest-Path-using-BFS
 I did a visualisation of BFS for finding the shortest path between 2 locations
--------------------------
+
 # How to run it:
 - you need to have pygame, if you dont have it type pip install pygame
 - type python BFS.py and play with it
--------------------------
+
 # How to use it:
 - stage 1: draw the obstacles just by holding left click and moving the mouse around
   - when you're done press space for the next stage
